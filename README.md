@@ -1,6 +1,6 @@
 # install
 
-    brew cask install agnoster/synergykm/synergy
+    brew cask install vladimir-v-marchenko/synergy/synergy
 
 # why
 
@@ -10,3 +10,7 @@
  - If you're using this and you find it valuable, consider buying a membership to Synergy and/or donating to SynergyKM
 
 Thanks to @JacopKane for the initial PR to cask!
+
+P.S. forked from agnoster/homebrew-synergykm
+
+
